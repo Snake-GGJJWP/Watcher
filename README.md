@@ -1,6 +1,3 @@
-Thank you for purchasing Watcher v3.
-This program take care of your computer if you need to leave it for a while. To be more precise this program completely blocks your PC until password is right. The small feature there is when password is incorrect the program will send you a photo of offender to your email.
-
 Usage:
 	To run this program click watcher.exe in dist directory. For this program working correct you also should type your email to login.txt (without spaces). Also you can change a password in "password.txt". Be careful, password must consist of numbers only. This program also requires some process you should create on your own.
 	To create this process follow next steps:
@@ -28,6 +25,4 @@ Usage:
 Note:
 	If you don't want to create a process you can change the value in "settings.txt" to 1. But be careful. If you change this value and somebody launch task manager as this program is running computer will shutdown. So make sure you have saved all important files.
 
-Warning: the program wasn't tested thoroughly and it may have bugs. If you find one, please, report about it here "vladiksnake@gmail.com"
-
-Hopefully, you'll like it :)
+P.S. I did it just to learn some pyqt
